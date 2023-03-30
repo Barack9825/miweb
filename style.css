@@ -1,0 +1,12 @@
+#title {
+    background-color: orange;
+}
+#title{
+    text-align: right;
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#boton{
+    padding-left: 90px;
+    padding-bottom: 90px;
+}
